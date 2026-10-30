@@ -2,7 +2,7 @@
 
 An Android 2D typing shooter game made in Unity (April 2026). Type the floating words to cast spells and defeat enemies. The waves get harder, and bosses need several words to defeat.
 
-📱 **Download the APK** → [Latest release](https://github.com/3004noemiSS/Cats-A-Spell/releases/latest)
+📱 **Download the APK** → [Latest release](https://github.com/noemisamsantos/Cats-A-Spell/releases/latest)
 *(Android only. You may need to allow "Install from unknown sources".)*
 
 ## My Role
